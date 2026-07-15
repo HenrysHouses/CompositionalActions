@@ -1,0 +1,23 @@
+{
+  "name": "com.oyagames.input-backend",
+  "version": "0.1.0",
+  "displayName": "Øya Inputs Backend",
+  "description": "Inputs backend for Øya Games. This package is not meant to be published.\n\n<b><u>This package has a dependency on a Git repo for serialized reference extensions: see the documentation for installation steps!</b></u> ",
+  "unity": "6000.0",
+  "keywords": [
+    "Dont Publish",
+    "Systems Backend",
+    "Inputs",
+    "Player",
+    "Gameplay",
+    "AI",
+    "Git Repository Dependencies"
+  ],
+  "dependencies": {
+    "com.unity.inputsystem": "1.13.1",
+    "com.oyagames.editor": "0.1.0"
+  },
+  "author": {
+    "name": "Øya Games"
+  }
+}

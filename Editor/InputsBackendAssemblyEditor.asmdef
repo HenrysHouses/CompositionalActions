@@ -1,0 +1,24 @@
+{
+    "name": "InputsBackendAssemblyEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:0614dfa13b2d7a14ab52af2e68ad7dd2",
+        "GUID:05b77a2a397cb3043b4d926f8007f0ff",
+        "GUID:2790683054c70884ab522c43e9b07874",
+        "GUID:0e4142ec1b13c6f4e81a0fd2a2c76afd",
+        "GUID:6dfb74f54b978c942adf68ce2b06ac6a",
+        "GUID:0614dfa13b2d7a14ab52af2e68ad7dd2"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
