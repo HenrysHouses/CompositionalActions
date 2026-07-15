@@ -1,25 +1,27 @@
-# InputsBackend
-Backend system for in game Inputs for both player input and non player use for unity
+# Compositional Actions
+A compotitional action system. Can be used with the new unity input system for easy binds in the inspector and 
+action logic through instatiating serialized references to the desired logic, or standalone action invokers with composed actions 
+defined as scriptable objects for easy reuse.
 
 ## Installation Guide
-
-### Step by step guide for installation in Øya Games Projects:
-
-1. Open Git Bash in the project location.
-2. run the command `git submodule add https://github.com/Oya-Games/InputsBackend.git Assets/Logic/Submodules/InputsBackend`
 
 ### For non-internal projects
 
 1. Open the package manager.
 2. Press the plus icon to add a new package, and select install via git link.
-3. Insert the link: https://github.com/Oya-Games/InputsBackend.git, and confirm
+3. Insert the link: https://github.com/HenrysHouses/CompositionalActions.git, and confirm
 
 # Dependencies
 
-## Øya Games Editor
+## Henry's Unity Editor Utils
 
 Follow the link for installation guide and download: 
-    https://github.com/Oya-Games/OyaEditor
+    https://github.com/HenrysHouses/UnityEditorUtils
+
+## Bewildered-Core
+
+If this is not automatically installed, add this repo as a package from the package manager.
+    https://github.com/MechWarrior99/Bewildered-Core.git
 
 ## Unity Input System 1.13.1
 
